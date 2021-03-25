@@ -16,4 +16,5 @@ I have more than 13 years as an entrepreneur, where most of it was in the travel
 
 
 🔭 I’m currently looking for a Full Stack Developer job
+
 📫 How to reach me: https://www.linkedin.com/in/fmarilao/
