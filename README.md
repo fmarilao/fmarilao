@@ -8,6 +8,7 @@ I have more than 13 years as an entrepreneur, where most of it was in the travel
 **Skills in**
 
 - 💻 JavaScript, React, Redux
+- 📱 React Native
 - ⚙️ Node.JS, Express.Js
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
@@ -17,4 +18,8 @@ I have more than 13 years as an entrepreneur, where most of it was in the travel
 
 🔭 I’m currently looking for a Full Stack Developer job
 
-📫 How to reach me: https://www.linkedin.com/in/fmarilao/
+📫 How to reach me:
+
+:heavy_check_mark: https://www.linkedin.com/in/fmarilao/
+
+:heavy_check_mark: http://fmarilao.tech
