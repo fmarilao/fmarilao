@@ -12,7 +12,7 @@ I have more than 13 years as an entrepreneur, where most of it was in the travel
 - ⚙️ Node.JS, Express.Js
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
-- 💬 Git, SCRUM, Slack, Trello
+- 💬 Git, SCRUM, Slack, Trello, Jira
 - ⚡ Collaborative, Hard Worker
 
 
