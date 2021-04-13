@@ -23,3 +23,7 @@ I have more than 13 years as an entrepreneur, where most of it was in the travel
 :heavy_check_mark: https://www.linkedin.com/in/fmarilao/
 
 :heavy_check_mark: http://fmarilao.tech
+
+![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmarilao&hide=contribs,prs&theme=buefy&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarilao&layout=compact&theme=buefy)
