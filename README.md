@@ -21,4 +21,4 @@ Thanks for visiting my profile!
 
 :heavy_check_mark: https://www.linkedin.com/in/fmarilao/
 
-:heavy_check_mark: http://fmarilao.tech
+:heavy_check_mark: https://fmarilao.github.io/
