@@ -19,6 +19,8 @@ Thanks for visiting my profile!
 
 📫 How to reach me:
 
+:heavy_check_mark: https://joinentre.com/profile/facundo
+
 :heavy_check_mark: https://www.linkedin.com/in/fmarilao/
 
 :heavy_check_mark: https://fmarilao.github.io/
