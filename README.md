@@ -9,8 +9,8 @@ Thanks for visiting my profile!
 - 💻 JavaScript, React, Redux
 - 📱 React Native
 - ⚙️ Node.JS, Express.Js
-- 👁️ CSS, SASS, MaterialUI
-- 💽 PostgreSQL, MongoDB
+- 👁️ CSS, SASS
+- 💽 PostgreSQL, MongoDB, GraphQL
 - 💬 Git, SCRUM, Slack, Trello, Jira
 - ⚡ Collaborative, Hard Worker
 
