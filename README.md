@@ -24,3 +24,9 @@ Thanks for visiting my profile!
 :heavy_check_mark: https://joinentre.com/profile/facundo
 
 
+
+
+Visitor Count: 
+
+![Visitor Count](https://profile-counter.glitch.me/fmarilao/count.svg)
+
