@@ -26,7 +26,7 @@ Thanks for visiting my profile!
 
 
 
-Visitor Count: 
+2024 - Visitor Count: 
 
 ![Visitor Count](https://profile-counter.glitch.me/fmarilao/count.svg)
 
